@@ -21,7 +21,7 @@
 title: Ph. Distance
 #email: your-email@example.com
 description: A newsletter about running
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/newsletter" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
