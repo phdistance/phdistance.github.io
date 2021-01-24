@@ -14,4 +14,4 @@ Welcome to Ph. Distance, a newsletter about running and many other things. There
 
 ## How do I subscribe?
 
-Just enter your [e mail address on this form](https://forms.gle/NHEsBP1wo11yYrZj7). You will get copies of the newsletter sent to your email. That's it.
+Just enter your [e mail address on this form](https://forms.gle/NHEsBP1wo11yYrZj7){:target="_blank"}. You will get copies of the newsletter sent to your email. That's it.
