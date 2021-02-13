@@ -6,9 +6,9 @@ categories: newsletters
 ---
 Welcome to PhDistance, an email newsletter about running and many things related to running. There are many running newsletters out there. Actually, according to a [recent _New Yorker article_](https://www.newyorker.com/magazine/2021/01/04/is-substack-the-media-future-we-want), we seem to be experiencing a renaissance of email newsletters of all sorts, which I think says something about our need to connect with others about things we care about. The newsletter boon also betrays our online social habits. Many of us prefer that information arrives in just in one place: our inboxes.
 
-Even if we aren't sure if email newsletters are the "media future" we want, as the _New Yorker_ piece wonders, I do think you will want to subscribe to this particular running newsletter. Why? PhDistance is written by [two of us, myself and Jeff Gross](/about). We like to say that PhDistance is where academia hits the road and trails because we've known each other since our Ph.D. days. We are both avid runners, and we plan to write about our experiences and aspirations with running in a tone that is personal and informative.
+Even if we aren't sure if email newsletters are the "media future" we want, as the _New Yorker_ piece wonders, I do think you will want to subscribe to this particular running newsletter. Why? PhDistance is written by [two of us, me and Jeff Gross](/about). We like to say that PhDistance is where academia hits the road and trails because we've known each other since our Ph.D. days. We are both avid runners, and we plan to write about our experiences and aspirations with running in a tone that is personal and informative.
 
-Even if you don't run or don't want to read about running all of time time, you may want to subscribe because you know us and want to stay in touch with us.
+Even if you don't run or don't want to read about running all of the time, you may want to subscribe because you know us and want to stay in touch with us.
 
 ### What will we cover in PhDistance?
 
