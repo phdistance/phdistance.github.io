@@ -4,10 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Ph. Distance is an email newsletter about running. We talk about just about anything related to running, but we often focus on personal improvement through reflection and the analysis of running-related data through visualization. Both of the writers hold doctoral degrees.
+PhDistance is an email newsletter about running. It's a space where academia hits the streets and trails. Here, we talk about just about anything related to running, but we often focus on personal improvement in running through reflection. Both of the authors hold doctoral degrees.
 
 ### Authors
 
-**Andrew Battista** is a Librarian for Geospatial Information Systems and an avid runner. He's completed twelve marathons and specializes in simple, homegrown visualization of data with open source tools.
+**Andrew Battista** is a Librarian for Geospatial Information Systems and an avid runner. He's completed twelve marathons and specializes in simple, homegrown visualization of data with open source tools. He lives in Brooklyn, NY and is a member of the New York Road Runners.
 
 **Jeffrey Gross** is an English Professor and an RRCA (Road Runners Club of America) certified running coach.
+
+### How do I subscribe?
+
+Just enter your [e mail address on this form](https://forms.gle/NHEsBP1wo11yYrZj7){:target="_blank"}. You will get copies of the newsletter sent to your email. That's it.
