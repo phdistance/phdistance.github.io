@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to PhDistance"
 date:   2021-02-12 18:56:29 -0500
+author: Andrew Battista
 categories: newsletters
 ---
 Welcome to PhDistance, an email newsletter about running and many things related to running. There are a lot of running newsletters out there. Actually, according to a [recent _New Yorker article_](https://www.newyorker.com/magazine/2021/01/04/is-substack-the-media-future-we-want), we seem to be experiencing a renaissance of email newsletters of all sorts, which I think says something about our need to connect with others about things we care about. The newsletter boon also betrays our online social habits. Many of us prefer that information arrive in just one place: our inboxes.

@@ -2,6 +2,7 @@
 layout: post
 title:  "It's the Adventure"
 date:   2021-03-02 18:56:29 -0500
+author: Jeff Gross
 categories: newsletters
 ---
 How has the last year changed your relationship with running? Heading into 2020, I was excited to run my first 50K in March and to start competing in the masters division in road races after my 40th birthday in May. As is the case for many of us, I haven’t toed a starting line in over 14 months. Yet, during this time of physical distancing, running has provided both a sense of normalcy and an escape, and I have embraced running as adventure during the pandemic. It has been an opportunity to reassess my relationship with myself, my body, and sport.
