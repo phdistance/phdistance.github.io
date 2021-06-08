@@ -12,6 +12,12 @@ PhDistance is an email newsletter about running. It's a space where academia hit
 
 **Jeffrey Gross** is an English Professor, an RRCA-trained running coach, and an avid runner. His next goals are ultra-length trail races before returning to the road marathon. He lives in a Memphis, TN.
 
+### Strava and Instagram
+
+Join the [PhDistance Strava Run Crew](https://www.strava.com/clubs/PhDistance).
+
+Follow PhDistance on [Instagram](https://www.instagram.com/phdistancerunning/).
+
 ### How do I subscribe?
 
 Just enter your [e mail address on this form](https://forms.gle/NHEsBP1wo11yYrZj7){:target="_blank"}. You will get copies of the newsletter sent to your email. That's it.
