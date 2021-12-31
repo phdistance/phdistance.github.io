@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Running Easter Eggs, or Something Else?"
+date:   2021-12-31 01:00:29 -0500
+author: Andrew Battista
+categories: newsletters
+---
+
+Happy New Year's Eve! When running or moving about New York, I enjoy experiencing the various real-time registers of information that are nestled within the city. A good example is the bike counter installed at the base of the Manhattan Bridge. As you enter Manhattan, there's a dynamic [sign that tells you how many people have crossed the bridge so far that day.](https://twitter.com/bikenewyork/status/1095371003344183297) Usually my mind wanders as I struggle to bike up the slope of the bridge on the way to work, even while I'm taking in a great view of the city skyline. But as I start to coast down into Manhattan, my mind often enters a micro contest: I try to see how close I can get to guessing the number of bikes that have crossed the bridge by that point in the day. It's often between 800 and 2000, and when I'm thinking about it, I can usually guess within 100.
+
+What goes into my calculus? Certainly the experience of making a lot of trips over the Manhattan Bridge helps, but my guess is also a combination of several factors: how early or late (relatively speaking) am I for work, the weather and temperature, the generalized level of pandemic-related trepidation (which can inspire people to bike instead of taking the subway), my knowledge of subway delays (which at times is _the_ reason I am biking that day), and the general volume of morning bike traffic I've seen on the bridge. In short, the bike counter is an opportunity for me to shift my attention and think about the interconnected phenomena that make up city life in the middle of a workout or bike commute. There's literally no consequence to my guess; the bike counter is an Easter egg of sorts, a small thing I enjoy because it offers just enough engagement with information to get me thinking about my embodied situation in a given moment.
+
+An example more specific to running is the famous [3 Columbus Circle billboard](https://snadisplays.com/projects/3-columbus-circle/) overlooking Central Park. The billboard offers an LED display of the time and temperature. I think about this sign during the many times I've run the Central Park loop, especially during races that make multiple loops of the park. The path arcs to the left the further south you go, and the billboard peeks out through the trees as you head back in toward Columbus Circle. This perspective offers a nice, slow reveal of the time and temperature for those interested. As I head south along the west side of the park, I anticipate the sign and posit a guess to myself about what the temperature is. Again, it really doesn't matter what the temperature is in the moment, but I like the experience of digesting real-time information, thinking about it, checking in with my overall running condition, speed, and heart rate, and then reflecting that in the context of my own assessment of the temperature. In less than a tenth of a mile, I'm already thinking about something else.
+
+These are a couple small examples of ambient information that has become an embodied part of the urban experience in many cities. Those interested should read more about so-called urban informatics in Malcom McCullough's _Ambient Commons: Attention in the Age of Embodied Information_, which is not about running at all. But there are a couple of things about McCullough's book that interest me as someone who often runs in cities. Obviously, these dynamic forms of information are a part of many kinds of running events (think of the clocks dispersed at mile markers in many races). However, what makes me think of these two examples as Easter eggs is the relative surprise with which I encounter them. They are small and sometimes unexpected things that occur on a run that can shift our focus in small ways.
+
+I am always curious to hear of others's experiences. Are there similar Easter eggs of ambient information that keep us going and drift our thoughts in interesting ways?
+
+### End of the year totals
+
+Today is the last day of 2021, and many of us are awash in year-end reflections, "wrapped" retrospectives, and mileage aggregations. I even earned Garmin's "Finish Strong" badge today on my run, which is yet another kind of Easter egg. To those who set ambitious goals and met them, congratulations! To those who set time or volume goals and didn't quite meet them, I believe that congratulations are still in order. Here's to a happy and fulfilling new year!
+
+### PhDistance is on Instagram and Strava
+
+If you like reading what we've come up with so far in the newsletter, you might also want to connect with PhDistance on two of the leading social media platforms out there today: Instagram and Strava. That's right! We've created an Instagram feed at [phdistancerunning](https://www.instagram.com/phdistancerunning/) and a [Strava club](https://www.strava.com/clubs/PhDistance).
+
+### How do I subscribe?
+
+If you want to receive our newsletters or rifle through the long lost archives of previous posts, just enter your [e mail address on this form](https://forms.gle/NHEsBP1wo11yYrZj7){:target="_blank"}. You will get copies of the newsletter sent to your email. That's it.
+
+### See this newsletter online
+
+Newsletter 16: [“Running Easter Eggs, or Something Else?”]()
