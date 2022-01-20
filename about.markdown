@@ -8,7 +8,7 @@ PhDistance is an email newsletter about running. It's a space where academia hit
 
 ### Authors
 
-**Andrew Battista** is a Librarian for Geospatial Information Systems and an avid runner. He's completed twelve marathons and specializes in simple, homegrown visualization of data with open source tools. He lives in Brooklyn, NY and is a member of the New York Road Runners.
+**Andrew Battista** is a Librarian for Geospatial Information Systems and an avid runner. He's completed fourteen marathons and specializes in simple, homegrown visualization of data with open source tools. He lives in Brooklyn, NY and is a member of the New York Road Runners.
 
 **Jeffrey Gross** is an English Professor, an RRCA-trained running coach, and an avid runner. His next goals are ultra-length trail races before returning to the road marathon. He lives in a Memphis, TN.
 
