@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Running on Sabbatical"
+date:   2022-01-24 01:00:29 -0500
+author: Andrew Battista
+categories: newsletters
+---
+
+This semester I am on sabbatical, which means that I am relieved of work duties for the next six months so I can engage in a research project. It's an incredible profusion of free time that will allow me to recuperate, rest, and think about (or do) things that I have not done before. No, running the [Leadville Trail Marathon](https://www.leadvilleraceseries.com/run/trailmarathonheavyhalf/) with Jeff will not be among them, but I do look forward to following his journey this spring. Perhaps I will get out on a trail or two of my own. And yes, I am aware that recusing myself from the office while still getting paid is a luxury that not everyone gets to enjoy. This is a well-timed sabbatical, for which I am grateful.
+
+### Running when time is not a factor
+
+I am a few weeks in, and I can already see several advantages of running when time is not the factor it typically is. For me, training cycles and life cycles have followed a predictable pattern: things stack up, I feel pinched for time and energy, and I treat most (if not all) of my running workouts as incremental tasks to fit into my schedule. Often, this means that I approach mid-week runs with an urgency that isn't always helpful. I run the most immediately available, predictable route at the most aggressive pace reasonable given my current fitness. This approach usually is about saving time, which is fine, but I don't think it allows me to recover enough.
+
+For example, on an average weekday morning, I can throw on clothes, go directly to the park and run 4 miles at an 8:40 average pace, get back, shower and eat in just over an hour real time. Or, I can dress for a wider range of temperatures, head out for a run along one of Brooklyn's expansive promenades, such as the [first Bike Path in the United States](https://www.nycbikemaps.com/spokes/ocean-parkway-bike-path/), and run at a 10:20 pace for 8 miles, and then finish up with some bursts for the last mile or so. Even if I don't stop for coffee while walking the rest of the way home, the entire run alone can take almost two hours in real time.
+
+Sure, this juxtaposition is a bit of a red herring because the second run I mention covers twice the distance as the first. But I imagine that my juxtaposition demonstrates some of the dilemmas many seasoned runners face. There is a tension between meeting a required amount of miles in a training plan, and / or achieving a desired level of exertion, and doing everything else we want or need to do. The slower run has many benefits, but it requires a largesse that we don't often have. Nevertheless, it could be that forming a habit of running too fast just to save time actually hurts us in the end. As if you could save time without injuring eternity.
+
+### Mostly slow running
+
+My sabbatical boon allows me to address a couple of key issues in my running. I chronically struggle with the so-called 80/20 rule, or the principle that at at least 80 percent of runs should be at a very easy to moderate level of intensity, or below the ventilatory threshold, to allow for recovery and to resist forming running habits that cause us to break down physically and mentally. See Matt Fitzgerald's [_80/20 Running: Run Stronger and Race Faster by Training Slower_](http://www.worldcat.org/oclc/1062163776) for more insight on this philosophy. Jeff, too, has already written about the [benefits to approaching different kinds of long runs](https://phdistance.github.io/newsletters/2021/06/03/newsletter-11.html) with varied intentions. There's a lot to unpack in Fitzgerald's book, so look for that in future newsletters.
+
+I have to admit that the 80/20 approach seems like a long shot to maintain, but what better moment to experiment with it than during a sabbatical? I haven't charted out the possibilities yet, but I estimate that shifting to this approach in earnest while still achieving a comparable level of exertion (for me) might look something like the following:
+
+**My typical running weeks**
+- 3 runs
+- 20 total miles
+- 8:50 per mile pace for almost 3 hours of total running time
+
+**A week following the 80/20 rule**
+- 5 runs
+- 35 total miles
+- 5 hours at easy 10:45 per mile pace 1 total hour at an exerted 8:00 per mile pace for a total of about 6 hours per week
+
+The 80/20 scenario calls for double the amount of time spent running, and at a glance it seems like it would offer me comparable levels of exertion. But finding three hours a week is eminently attainable while on sabbatical, and I would argue that it's possible in many other circumstances as well.
+
+Finally, there's something liberating about having big blocks of unstructured time and deciding to go for a run, with or without a purpose or destination in mind. Even if I don't have the ability to add this much time to my running routine, I can already imagine the mental benefits of letting go and approaching runs as a chance to get away, unwind, and see where the path leads. Again, look for more newsletters along these lines in the coming months.
+
+### Threading the loop
+
+When we started the PhDistance newsletter, we promised occasional product reviews, without the sheen of sponsored content verbiage or preemptive disclaimers of objectivity that you see so frequently. Personally, I don't see myself doing shoe reviews or anything like that, but here's a suggestion that might help us all. I recommend ordering the [Mr. Penn Loop turner hook](https://www.amazon.com/Mr-Pen-Sewing-Loop-Turner/dp/B08N5JQP7R) or something like it. *A shoutout to Dinkster for this advice.* If you're like me, you may have several running garments, especially shorts and pants, that get washed frequently. Many spin cycles can be tumultuous and can rip the drawstring right out of the interior loop. To get the drawstring back in, you have to feed it through, a painstaking and boring process. With the help of a turner hook, you can easily thread the drawstring back through the interior loop and be ready to go for your next run.
+
+### 100 miles per second
+
+Now is as good of a time as any to imbue my yearly running goal of 1300 miles with new meaning. A sizable portion of the PhDistance readership follow the Bills and are reeling from the once-in-a-generation Bills meltdown in the AFC Divisional Playoff game this past Sunday night. I say once-in-a-generation rather than something like "one in a million" because Bills fans experience this every ten years or so. There's no doubt I'll think about the 13 seconds in which the Bills collapsed a lot, so I'm dedicating 100 miles for each second this year.
+
+### PhDistance is on Instagram and Strava
+
+If you like reading what we've come up with so far in the newsletter, you might also want to connect with PhDistance on two of the leading social media platforms out there today: Instagram and Strava. That's right! We've created an Instagram feed at [phdistancerunning](https://www.instagram.com/phdistancerunning/) and a [Strava club](https://www.strava.com/clubs/PhDistance).
+
+### How do I subscribe?
+
+If you want to receive our newsletters or rifle through the long lost archives of previous posts, just enter your [e mail address on this form](https://forms.gle/NHEsBP1wo11yYrZj7){:target="_blank"}. You will get copies of the newsletter sent to your email. That's it.
+
+### See this newsletter online
+
+Newsletter 18: [“Running on Sabbatical”]()
